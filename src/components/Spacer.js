@@ -1,6 +1,7 @@
 // This code is meant to be visibly hidden while imitating the fixed <Navbar/>'s responsiveness   //
 
 import React from "react";
+import './style.css';
 import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
 import AppBar from "@material-ui/core/AppBar";
@@ -55,10 +56,6 @@ const styles = theme => ({
     "font-size": "20px",
     margin: "0"
   },
-  scoreBoxes: {
-    "margin-bottom": "15px",
-    "padding-top": "0!important"
-  },
   scoreText: {
     "font-family": "'Gochi Hand', cursive",
     "font-size": "18px",
@@ -93,12 +90,12 @@ function SimpleAppBar(props) {
                 </p>
               </Typography>
             </Grid>
-            <Grid item xs={6} className={classes.scoreBoxes}>
+            <Grid item xs={6} className="scoreBoxes">
               <Paper className={[classes.paper, classes.scoreText].join(" ")}>
                 Current Score : 2
               </Paper>
             </Grid>
-            <Grid item xs={6} className={classes.scoreBoxes}>
+            <Grid item xs={6} className="scoreBoxes">
               <Paper className={[classes.paper, classes.scoreText].join(" ")}>
                 Top Score : 2
               </Paper>

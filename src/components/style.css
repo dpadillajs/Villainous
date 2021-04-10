@@ -46,3 +46,10 @@ body {
     background: #cb2d3e;
   }
 }
+
+.scoreBoxes {
+  margin-bottom: 15px!important;
+  padding-top: 0!important;
+  padding-left: 10px!important;
+  padding-right: 10px!important;
+}
