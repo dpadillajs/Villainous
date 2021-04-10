@@ -1,0 +1,48 @@
+body {
+  background: rgb(55, 55, 55);
+  margin: 0;
+}
+
+.rightAnswer {
+  animation: rightAnswer 2s;
+}
+
+@keyframes rightAnswer {
+  0% {
+    background: #7cdb50;
+  }
+  49% {
+    background: linear-gradient(to bottom, #969696, #373737);
+  }
+  50% {
+    background: linear-gradient(to bottom, #969696, #373737);
+  }
+  99% {
+    background: #7cdb50;
+  }
+  100% {
+    background: #7cdb50;
+  }
+}
+
+.wrongAnswer {
+  animation: wrongAnswer 2s;
+}
+
+@keyframes wrongAnswer {
+  0% {
+    background: #cb2d3e;
+  }
+  49% {
+    background: linear-gradient(to bottom, #969696, #373737);
+  }
+  50% {
+    background: linear-gradient(to bottom, #969696, #373737);
+  }
+  99% {
+    background: #cb2d3e;
+  }
+  100% {
+    background: #cb2d3e;
+  }
+}

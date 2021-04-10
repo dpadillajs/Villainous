@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0",
+    "alt": "Disney's Alice In Wonderland",
+    "image": "img/Alice.jpg",
+    "clicked": false
+  },
+  {
+    "id": "1",
+    "alt": "Alien",
+    "image": "img/Alien.jpg",
+    "clicked": false
+  },
+  {
+    "id": "2",
+    "alt": "Disney's Alladin",
+    "image": "img/Alladin.jpg",
+    "clicked": false
+  },
+  {
+    "id": "3",
+    "alt": "Batman",
+    "image": "img/Batman.jpg",
+    "clicked": false
+  },
+  {
+    "id": "4",
+    "alt": "Fantastic Four",
+    "image": "img/Fantastic4.jpg",
+    "clicked": false
+  },
+  {
+    "id": "5",
+    "alt": "Final Fantasy",
+    "image": "img/FinalFantasy.jpg",
+    "clicked": false
+  },
+  {
+    "id": "6",
+    "alt": "Lord of the Rings",
+    "image": "img/Frodo.jpg",
+    "clicked": false
+  },
+  {
+    "id": "7",
+    "alt": "Ghostbusters",
+    "image": "img/Ghostbusters.jpg",
+    "clicked": false
+  },
+  {
+    "id": "8",
+    "alt": "Dragonball Z",
+    "image": "img/Goku.jpg",
+    "clicked": false
+  },
+  {
+    "id": "9",
+    "alt": "Harry Potter",
+    "image": "img/HarryPotter.jpg",
+    "clicked": false
+  },
+  {
+    "id": "10",
+    "alt": "Disney's Hercules",
+    "image": "img/Hercules.jpg",
+    "clicked": false
+  },
+  {
+    "id": "11",
+    "alt": "Hulk",
+    "image": "img/Hulk.jpg",
+    "clicked": false
+  },
+  {
+    "id": "12",
+    "alt": "Game of Thrones",
+    "image": "img/JonSnow.jpg",
+    "clicked": false
+  },
+  {
+    "id": "13",
+    "alt": "Teenage Mutant Ninja Turtles",
+    "image": "img/TMNT.jpg",
+    "clicked": false
+  },
+  {
+    "id": "14",
+    "alt": "Star Wars",
+    "image": "img/Yoda.jpg",
+    "clicked": false
+  },
+  {
+    "id": "15",
+    "alt": "The Legend of Zelda",
+    "image": "img/Zelda.jpg",
+    "clicked": false
+  }
+]
