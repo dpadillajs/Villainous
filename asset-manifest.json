@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Villainous/static/css/main.d4905442.chunk.css",
+    "main.js": "/Villainous/static/js/main.2deb301b.chunk.js",
+    "main.js.map": "/Villainous/static/js/main.2deb301b.chunk.js.map",
+    "runtime-main.js": "/Villainous/static/js/runtime-main.fa802cfe.js",
+    "runtime-main.js.map": "/Villainous/static/js/runtime-main.fa802cfe.js.map",
+    "static/js/2.58230d15.chunk.js": "/Villainous/static/js/2.58230d15.chunk.js",
+    "static/js/2.58230d15.chunk.js.map": "/Villainous/static/js/2.58230d15.chunk.js.map",
+    "index.html": "/Villainous/index.html",
+    "static/css/main.d4905442.chunk.css.map": "/Villainous/static/css/main.d4905442.chunk.css.map",
+    "static/js/2.58230d15.chunk.js.LICENSE.txt": "/Villainous/static/js/2.58230d15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa802cfe.js",
+    "static/js/2.58230d15.chunk.js",
+    "static/css/main.d4905442.chunk.css",
+    "static/js/main.2deb301b.chunk.js"
+  ]
+}
